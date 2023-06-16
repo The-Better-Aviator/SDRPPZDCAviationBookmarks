@@ -110,7 +110,27 @@
         }
       },
       "showOnWaterfall": true
+    },
+    "FDK": {
+      "bookmarks": {
+        "GC": {
+          "bandwidth": 10000.0,
+          "frequency": 121975000.0,
+          "mode": 2
+        },
+        "LC": {
+          "bandwidth": 10000.0,
+          "frequency": 132400000.0,
+          "mode": 2
+        },
+        "ATIS": {
+          "bandwidth": 10000.0,
+          "frequency": 124875000.0,
+          "mode": 2
+        }
+      },
+      "showOnWaterfall": true
     }
   },
-  "selectedList": "DCA"
+  "selectedList": "FDK"
 }
