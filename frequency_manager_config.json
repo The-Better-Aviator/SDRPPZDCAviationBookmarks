@@ -4,27 +4,27 @@
     "DCA": {
       "bookmarks": {
         "CD": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 128250000.0,
           "mode": 2
         },
         "GC": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 121700000.0,
           "mode": 2
         },
         "LC": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 119100000.0,
           "mode": 2
         },
         "HC": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 135350000.0,
           "mode": 2
         },
         "ATIS": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 132650000.0,
           "mode": 2
         }
@@ -34,42 +34,42 @@
     "IAD": {
       "bookmarks": {
         "CD": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 135700000.0,
           "mode": 2
         },
         "GCE": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 121900000.0,
           "mode": 2
         },
         "GCW": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 121625000.0,
           "mode": 2
         },
         "GCN": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 123775000.0,
           "mode": 2
         },
         "LCE": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 120100000.0,
           "mode": 2
         },
         "LCW": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 120250000.0,
           "mode": 2
         },
         "LCN": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 134425000.0,
           "mode": 2
         },
         "ATIS": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 134850000.0,
           "mode": 2
         }
@@ -79,32 +79,32 @@
     "BWI": {
       "bookmarks": {
         "CD": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 118050000.0,
           "mode": 2
         },
         "GCE": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 120200000.0,
           "mode": 2
         },
         "GCW": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 121900000.0,
           "mode": 2
         },
         "LCE": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 123750000.0,
           "mode": 2
         },
         "LCW": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 119400000.0,
           "mode": 2
         },
         "ATIS": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 127800000.0,
           "mode": 2
         }
@@ -114,17 +114,17 @@
     "FDK": {
       "bookmarks": {
         "GC": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 121975000.0,
           "mode": 2
         },
         "LC": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 132400000.0,
           "mode": 2
         },
         "ATIS": {
-          "bandwidth": 10000.0,
+          "bandwidth": 6000.0,
           "frequency": 124875000.0,
           "mode": 2
         }
